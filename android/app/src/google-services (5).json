@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "239366924623",
+    "firebase_url": "https://crash-66bf3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crash-66bf3",
+    "storage_bucket": "crash-66bf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239366924623:android:20e68df89a69c137fffd3a",
+        "android_client_info": {
+          "package_name": "com.example.crash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxU4HxgbEs6PY1HVWbBl3feDzkoHWWqXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
