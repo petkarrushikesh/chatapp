@@ -7,13 +7,13 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: FirebaseOptions(
-      apiKey: "AIzaSyDxU4HxgbEs6PY1HVWbBl3feDzkoHWWqXs",
+      apiKey: "AIzaSyDxU4HxgbEs6PY1HVWbBl3feDzkoHxxxx",
       authDomain: "crash-66bf3.firebaseapp.com",
-      projectId: "crash-66bf3",
+      projectId: "crash-66bxx",
       storageBucket: "crash-66bf3.appspot.com",
       messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-      appId: "1:239366924623:android:20e68df89a69c137fffd3a",
-      databaseURL: 'https://crash-66bf3-default-rtdb.asia-southeast1.firebasedatabase.app'
+      appId: "1:239366924623:android:20e68df89a69c137ffxxxx",
+      databaseURL: 'https://crash-66bf3-default-rtdb.asia-southeast1.firebasedatabasxxxx'
     ),
   );
   runApp(const MyApp());
